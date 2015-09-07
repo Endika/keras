@@ -15,6 +15,9 @@
 - [Models](models.md)
 - [Activations](activations.md)
 - [Initializations](initializations.md)
+- [Regularizers](regularizers.md)
+- [Constraints](constraints.md)
+- [Callbacks](callbacks.md)
 - [Datasets](datasets.md)
 
 ---
@@ -33,8 +36,3 @@
 - [Sequence](preprocessing/sequence.md)
 - [Text](preprocessing/text.md)
 - [Image](preprocessing/image.md)
-
----
-
-## Utils
-- [Visualization](utils/visualization.md)
